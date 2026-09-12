@@ -4,3 +4,4 @@ RENCANA KONTEN
   * EBT
 - fnp
 - progamming
+- gaming
