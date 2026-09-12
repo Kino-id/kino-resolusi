@@ -1,2 +1,2 @@
 # kino-resolusi
-Repository untuk menyimpan rencaca kedepannya
+Repository untuk menyimpan rencana kedepannya
